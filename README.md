@@ -23,8 +23,9 @@ da gasolina tiveram uma de queda ou diminuição?
 10. Há alguma correlação entre o valor do combustível (gasolina e etanol) e a bandeira que vende ele?
 
 Além destes, foram criados mais duas perguntas extras:
-1. 
-2. 
+
+1. Qual dia da semana possui o valor dos combustíveis mais caros?
+2. Qual o Estado que possui o maior valor médio dos combustíveis?
 
 ### Requisitos:
 
