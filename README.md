@@ -4,7 +4,7 @@
 
 ## 🧭 OBJETIVO
 
-Para o projeto final do Módulo 3 da formação em Data Analytics da [Resilia Educação](https://www.resilia.com.br), a equipe foi escalada pela Agência Nacional de Petróleo e Gás Natural e Biocombustíveis (ANP) para realizar uma análise exploratória relacionada à série histórica de preço de venda da gasolina e do etanol. Foram utilizados os arquivos dos dois últimos meses do ano atual contendo a série histórica dos preços da gasolina e do etanol em todo o Brasil que estão disponíveis no portal dados.gov.
+Para o projeto final do Módulo 4 da formação em Data Analytics da [Resilia Educação](https://www.resilia.com.br), a equipe foi escalada pela Agência Nacional de Petróleo e Gás Natural e Biocombustíveis (ANP) para realizar uma análise exploratória relacionada à série histórica de preço de venda da gasolina e do etanol. Foram utilizados os arquivos dos dois últimos meses do ano atual contendo a série histórica dos preços da gasolina e do etanol em todo o Brasil que estão disponíveis no portal dados.gov.
 
 ### Detalhes do projeto
 
