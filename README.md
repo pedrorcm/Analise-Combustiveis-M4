@@ -82,8 +82,8 @@ https://www.linkedin.com/pulse/tutorial-pr%C3%A1tico-de-como-instalar-anaconda-p
 - Pronto, já pode ser possível acessar o projeto.
 
 ## 🤝 DESENVOLVEDORES
-FOTO DO CANVA
-![Apresentação de Negócios Plano de Projeto Corporativo Geométrico Amarelo e Branco](https://user-images.githubusercontent.com/75100979/187587320-f03200c7-1d46-4fa1-9e6a-f08d35a964a7.png)
+
+![Projeto M4 - SQUAD 3](https://user-images.githubusercontent.com/75100979/194189883-741ee841-d2d4-449f-87af-4f1fbf276588.png)
 
 ###### Érick Vieira Martins Alves - Colaborador II
 
